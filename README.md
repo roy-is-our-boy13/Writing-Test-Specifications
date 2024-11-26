@@ -2,7 +2,7 @@
 
 ## Unit Testing
 
-### For the prompt "A function called multiplication that returns the product of the two input numbers."
+#### For the prompt "A function called multiplication that returns the product of the two input numbers."
 
 * Expect multiplication(9, 2) to be a function
 * Expect multiplication(9, 3) to be a number
@@ -13,7 +13,7 @@
 * Expect multiplication("b", 3) to be an error
 
 
- ### For the prompt "A function called concatOdds takes two arrays of integers as arguments. It should return a single array that only contains the odd numbers, in ascending order, from both of the arrays."
+ #### For the prompt "A function called concatOdds takes two arrays of integers as arguments. It should return a single array that only contains the odd numbers, in ascending order, from both of the arrays."
 
 * Expect concatOdds([2, 4, 7], [1]) to be a function
 * Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be an array
@@ -26,7 +26,7 @@
 
 ## Functional Tests
 
-### For the prompt "A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest."
+#### For the prompt "A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest."
 
 * When a user clicks on the “shopping cart” icon in the top right corner of the shopping site, they should be directed to a page that displays shopping cart being empty.
 * When a user clicks the “Continue to Payment” icon, a pop-up should display the message “Your Cart is Empty.”
