@@ -2,7 +2,7 @@
 
 ## Unit Testing
 
- - For the prompt "A function called multiplication that returns the product of the two input numbers."
+ ##- For the prompt "A function called multiplication that returns the product of the two input numbers."
 
 * Expect multiplication(9, 2) to be a function
 * Expect multiplication(9, 3) to be a number
