@@ -4,8 +4,7 @@
 ```
 For the prompt "A function called multiplication that returns the product of the two input numbers."
 ```
-* Expect multiplication(num1, num2) to be a function
-* Expect multiplication(num1, num2) to be a function
+* Expect multiplication(9, 2) to be a function
 * Expect multiplication(9, 3) to be a number
 * Expect multiplication(9, 3) to be eqaul to 27
 * Expect multiplication(5, 2) to be eqaul to 10
@@ -16,7 +15,7 @@ For the prompt "A function called multiplication that returns the product of the
 ```
 For the prompt "A function called concatOdds takes two arrays of integers as arguments. It should return a single array that only contains the odd numbers, in ascending order, from both of the arrays."
 ```
-* Expect concatOdds([], []) to be a function
+* Expect concatOdds([2, 4, 7], [1]) to be a function
 * Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be an array
 * Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be eqaul to [-1, 1, 3, 9, 15]
 * Expect concatOdds([3, 2, 2, 1], [7, 9, 13, 11, 14, 16]) to be eqaul to [1, 3, 7, 9, 11, 13]
